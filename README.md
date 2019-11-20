@@ -35,4 +35,9 @@
 
 ### Tools
 
-* Git
+* Version control
+  * Git
+  * Subversion
+  * Team Foundation Version Control
+
+
