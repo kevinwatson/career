@@ -12,6 +12,7 @@
 
 ### Technologies
 
+* Blockchain
 * Cloud
 * Desktop
   * Electron
