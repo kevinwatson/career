@@ -12,6 +12,7 @@
 
 ### Technologies
 
+* Augmented reality
 * Blockchain
 * Cloud
 * Desktop
@@ -27,6 +28,7 @@
   * Android
   * iOS
   * iPadOS
+* Virtual reality
 * Web
   * ASP.NET
   * PHP
