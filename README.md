@@ -5,6 +5,7 @@
 ### Specializations
 
 * Database administration (DBA)
+* Database development
 * Development operations (devops)
 * Network administration
 * Software development (software engineering)
@@ -56,3 +57,29 @@
   * 10
   * Windows Subsystem for Linux
 
+### Programming languages
+
+* C
+* C++
+* C#
+* Go
+* Java
+* JavaScript
+* Kotlin
+* Objective-C
+* PHP
+* Python
+* Ruby
+* Rust
+* Perl
+* Swift
+* T-SQL
+* TypeScript
+* VisualBasic.net
+
+### Scripting languages
+
+* Bash
+* Powershell
+* Python
+* Ruby
