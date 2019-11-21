@@ -42,4 +42,17 @@
   * Subversion
   * Team Foundation Version Control
 
+### Operating Systems
+
+* macOS
+* Linux
+  * Debian
+  * Redhat
+  * Raspbian
+  * Ubuntu
+* Windows
+  * 7
+  * 8
+  * 10
+  * Windows Subsystem for Linux
 
