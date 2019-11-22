@@ -1,14 +1,14 @@
 # So you want to work in software?
 
-## Notes from someone who has made a career in software development
-
 ### Specializations
 
 * Database administration (DBA)
 * Database development
 * Development operations (devops)
+* Helpdesk
 * Network administration
-* Software development (software engineering)
+* Security
+* Software development (aka software engineering)
 * Quality assurance (QA)
 
 ### Technologies
@@ -16,6 +16,9 @@
 * Augmented reality
 * Blockchain
 * Cloud
+  * Amazon Web Services (AWS)
+  * Azure
+  * Google Cloud
 * Desktop
   * Electron
   * Windows Presentation Foundation
@@ -24,6 +27,7 @@
 * Internet of things
   * Raspberry Pi
 * Machine learning
+  * PyTorch
   * Tensorflow
 * Mobile
   * Android
@@ -33,6 +37,7 @@
 * Web
   * ASP.NET
   * PHP
+  * Progressive web apps (PWA)
   * React
   * Ruby on Rails
 
@@ -65,6 +70,8 @@
 * Go
 * Java
 * JavaScript
+  * CoffeeScript
+  * TypeScript
 * Kotlin
 * Objective-C
 * PHP
@@ -74,8 +81,7 @@
 * Perl
 * Swift
 * T-SQL
-* TypeScript
-* VisualBasic.net
+* VisualBasic.NET
 
 ### Scripting languages
 
