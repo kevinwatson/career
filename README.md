@@ -34,10 +34,14 @@
   * iOS
   * iPadOS
 * Virtual reality
+* Voice assistants
+  * Alexa
+  * Google Assistant
+  * Siri
 * Web
   * ASP.NET
   * PHP
-  * Progressive web apps (PWA)
+  * Progressive web app (PWA)
   * React
   * Ruby on Rails
 
