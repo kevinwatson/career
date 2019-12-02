@@ -47,6 +47,9 @@
 
 ### Tools
 
+* Virtualization
+  * Docker
+  * VirtualBox
 * Version control
   * Git
   * Subversion
